@@ -1,0 +1,36 @@
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.genruntimeconfig.cache
+C:\Users\PRASANNA CHOWDARY\Desktop\DotNETCore\LearningDotNetCore\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\API.dll
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.dll
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\DOTNETPROGRAMS\AspDotNetCore\API\API\obj\Debug\netcoreapp2.2\API.genruntimeconfig.cache
